@@ -1,5 +1,5 @@
-# Pass.in - API de Gestão de Participantes em Eventos Presenciais
-O Pass.in é uma aplicação de gestão de participantes em eventos presenciais. Esta API permite que organizadores cadastrem eventos, e os participantes conseguem fazer o check-in no evento.
+# Pass-in | API de Gestão de Participantes em Eventos Presenciais
+O Pass-in é uma aplicação de gestão de participantes em eventos presenciais. Esta API permite que organizadores cadastrem eventos, e os participantes conseguem fazer o check-in no evento.
 
 Os participantes inscritos podem emitir uma credencial para check-in no dia do evento.
 
